@@ -1,0 +1,10 @@
+Debug/
+Release/
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.sdf
+*.opensdf
+*.vcxproj.user
+ipch/
